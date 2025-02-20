@@ -1,7 +1,3 @@
-// SPDX-License-Identifier: MIT
-/*
- * Copyright 2021 Álvaro Fernández Rojas <noltari@gmail.com>
- */
 
 #include <hardware/irq.h>
 #include <hardware/structs/sio.h>
